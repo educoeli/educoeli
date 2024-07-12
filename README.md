@@ -6,6 +6,10 @@
 
 - 🌱 Eu estou aprendendo tudo sobre
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+      <i class="devicon-threedsmax-plain colori"></i>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+          
+          
 <!--
 **educoeli/educoeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
